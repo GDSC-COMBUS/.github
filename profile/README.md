@@ -1,4 +1,5 @@
-## Hi there 👋
+## 🚌 COMBUS: 장애인의 버스 승하차를 돕는 어플
+### 🌏 2024 Google Solution Challenge 출품 예정
 
 <!--
 
