@@ -1,6 +1,9 @@
 ## 🚌 COMBUS: 장애인의 버스 승하차를 돕는 어플
 ### 🌏 2024 Google Solution Challenge 출품 예정
 
+### [📜 API 리스트업](https://github.com/GDSC-COMBUS/Combus-Backend/wiki)
+
+
 <!--
 
 **Here are some ideas to get you started:**
