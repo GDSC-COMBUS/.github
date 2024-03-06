@@ -6,7 +6,7 @@ especially AI bus route number detection and Speech-To-Text reservation for the 
 <br></br>
 
 ## 📽️ Combus Demo Video
-### [<img width="1509" alt="스크린샷 2024-02-25 02 42 48" src="https://github.com/GDSC-COMBUS/Combus-Backend/assets/80906691/463a87c4-0caa-4f99-b470-2c9c0190f704">](https://www.youtube.com/watch?v=fFhG3aAYjc4)
+### [![컴버스 목업](https://github.com/GDSC-COMBUS/.github/assets/80906691/089a0c96-e6df-4496-a43e-fb78dcbd794e)](https://www.youtube.com/watch?v=fFhG3aAYjc4)
 <br></br>
 
 ## 📑 Combus System Architecture
